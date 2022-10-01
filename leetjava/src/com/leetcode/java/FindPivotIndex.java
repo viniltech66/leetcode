@@ -8,6 +8,7 @@ public class FindPivotIndex {
         int[] intArray = { 1,7,3,6,5,6 };
         System.out.println("Input "+ Arrays.toString(intArray));
         System.out.println("Output "+ pivotIndex(intArray));
+        System.out.println("testing");
     }
 
     public static int pivotIndex(int[] nums) {
